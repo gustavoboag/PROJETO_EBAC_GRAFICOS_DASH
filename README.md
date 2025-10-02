@@ -19,3 +19,38 @@ O dashboard apresenta 7 gráficos interativos:
 - **Plotly Express - visualizações interativas
 - **Pandas - manipulação e análise de dados
 - **Statsmodel - suporte à regressão linear
+
+## 📁 Estrutura do Projeto
+PROJETO_EBAC_GRAFICOS_DASH/
+│
+├── README.md                  # Documentação principal
+│
+├── 📂 projeto_grafico_dash
+│   └── ecommerce_estatistica.csv   # Dataset principal
+│   └── projeto 3.py              # Script de análise principal
+└
+
+
+## ▶️ Como Executar o Projeto
+1. Clone o repositório
+git clone https://github.com/seu-usuario/dashboard-ecommerce.git
+cd dashboard-ecommerce
+
+2. Crie um ambiente virtual (opcional, mas recomendado)
+python -m venv .venv
+source .venv/bin/activate   # Linux/Mac
+.venv\Scripts\activate      # Windows
+
+3. Instale as dependências
+pip install -r requirements.txt
+
+
+Caso não tenha o requirements.txt, instale manualmente:
+
+pip install dash plotly pandas statsmodels
+
+4. Execute o servidor local
+python app.py
+
+5. Acesse no navegador
+http://127.0.0.1:8050/
