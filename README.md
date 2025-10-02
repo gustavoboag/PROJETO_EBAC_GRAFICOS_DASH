@@ -37,8 +37,11 @@ PROJETO_EBAC_GRAFICOS_DASH/
 
 
 ## ▶️ Como Executar o Projeto
-1. Clone o repositório
+
+### 1. Clone o repositório
+```bash
 git clone https://github.com/gustavoboag/PROJETO_EBAC_GRAFICOS_DASH.git
+cd dashboard-ecommerce
 
 2. Crie um ambiente virtual (opcional, mas recomendado)
 python -m venv .venv
@@ -46,14 +49,10 @@ source .venv/bin/activate   # Linux/Mac
 .venv\Scripts\activate      # Windows
 
 3. Instale as dependências
-pip install -r requirements.txt
-
-
-
 pip install dash plotly pandas statsmodels
 
 4. Execute o servidor local
-python app.py
+python projeto 3.py
 
 5. Acesse no navegador
-http://127.0.0.1:8050/
+http://127.0.0.1:9050/
