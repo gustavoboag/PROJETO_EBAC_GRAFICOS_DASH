@@ -27,13 +27,13 @@ O dashboard apresenta 7 gráficos interativos:
 
 ## 📁 Estrutura do Projeto
 PROJETO_EBAC_GRAFICOS_DASH/
-│
-├── README.md                  # Documentação principal
-│
-├── 📂 projeto_grafico_dash
-│   └── ecommerce_estatistica.csv   # Dataset principal
-│   └── projeto 3.py              # Script de análise principal
-└
+- │
+- ├── README.md                  # Documentação principal
+- │
+- ├── 📂 projeto_grafico_dash
+- │   └── ecommerce_estatistica.csv   # Dataset principal
+- │   └── projeto 3.py              # Script de análise principal
+- └
 
 
 ## ▶️ Como Executar o Projeto
