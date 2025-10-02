@@ -40,8 +40,8 @@ PROJETO_EBAC_GRAFICOS_DASH/
 
 ### 1. Clone o repositório
 ```
-git clone https://github.com/gustavoboag/PROJETO_EBAC_GRAFICOS_DASH.git
-cd dashboard-ecommerce
+https://github.com/gustavoboag/PROJETO_EBAC_GRAFICOS_DASH.git
+
 ```
 2. Instale as dependências
 ```bash
