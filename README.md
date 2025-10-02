@@ -4,7 +4,7 @@ Este projeto implementa um dashboard interativo em Python utilizando Dash e Plot
 
 ## 📋 Sobre o Projeto
 
-###O dashboard apresenta 7 gráficos interativos:
+O dashboard apresenta 7 gráficos interativos:
 - Histograma – Distribuição de descontos aplicados
 - Gráfico de Dispersão – Relação entre preço e número de avaliações
 - Mapa de Calor – Correlação entre variáveis numéricas
