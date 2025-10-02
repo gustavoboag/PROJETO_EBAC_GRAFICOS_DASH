@@ -1,4 +1,4 @@
-# 📊 Pratique o conhecimento em criação de graficos a parti de um datafreme
+# 📊 Pratique o conhecimento em criação de graficos e crie uma aplicação Dash para visualizar
 
 Este projeto implementa um dashboard interativo em Python utilizando Dash e Plotly
 
