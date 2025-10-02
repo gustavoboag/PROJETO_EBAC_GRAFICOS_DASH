@@ -32,7 +32,7 @@ PROJETO_EBAC_GRAFICOS_DASH/
 - │
 - ├── 📂 projeto_grafico_dash
 - │   └── ecommerce_estatistica.csv   # Dataset principal
-- │   └── projeto 3.py              # Script de análise principal
+- │   └── projeto_3.py              # Script de análise principal
 - └
 
 
