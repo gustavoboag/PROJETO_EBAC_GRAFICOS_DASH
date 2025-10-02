@@ -50,7 +50,7 @@ pip install dash plotly pandas statsmodels
 
 3. Execute o servidor local
 ```bash
-python projeto 3.py
+python projeto_3.py
 
 ```
 4. Acesse no navegador
