@@ -40,7 +40,7 @@ PROJETO_EBAC_GRAFICOS_DASH/
 
 ### 1. Clone o repositório
 ```
-git clone https://github.com/seu-usuario/dashboard-ecommerce.git
+git clone https://github.com/gustavoboag/PROJETO_EBAC_GRAFICOS_DASH.git
 cd dashboard-ecommerce
 ```
 2. Crie um ambiente virtual (opcional, mas recomendado)
