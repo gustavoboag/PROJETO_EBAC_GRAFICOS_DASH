@@ -62,5 +62,5 @@ python projeto 3.py
 ```
 5. Acesse no navegador
 ```
-cpphttp://127.0.0.1:9050/
+http://127.0.0.1:9050/
 ```
