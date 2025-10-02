@@ -12,13 +12,18 @@ O dashboard apresenta 7 gráficos interativos:
 - Gráfico de Pizza – Distribuição de produtos por gênero
 - Gráfico de Densidade – Distribuição de preços
 - Regressão Linear – Relação entre preço e desconto
-## 🛠 Tecnologias Utilizadas
+#---
 
-- **Python 3**
-- **Dash criação da - aplicação web interativa
-- **Plotly Express - visualizações interativas
-- **Pandas - manipulação e análise de dados
-- **Statsmodel - suporte à regressão linear
+## 🛠️ Tecnologias Utilizadas
+
+- [Python 3.10+](https://www.python.org/)  
+- [Dash](https://dash.plotly.com/) → criação da aplicação web interativa  
+- [Plotly Express](https://plotly.com/python/plotly-express/) → visualizações interativas  
+- [Pandas](https://pandas.pydata.org/) → manipulação e análise de dados  
+- [Statsmodels](https://www.statsmodels.org/stable/index.html) → suporte à regressão linear  
+- [NumPy](https://numpy.org/) → cálculos numéricos  
+
+---
 
 ## 📁 Estrutura do Projeto
 PROJETO_EBAC_GRAFICOS_DASH/
