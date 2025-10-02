@@ -15,7 +15,7 @@ O dashboard apresenta 7 gráficos interativos:
 ## 🛠 Tecnologias Utilizadas
 
 - **Python 3**
-- **Pandas** - Manipulação de dados
-- **Matplotlib** - Visualizações gráficas
-- **Seaborn** - Visualizações estatísticas avançadas
-- **NumPy** - Cálculos numéricos
+- **Dash criação da - aplicação web interativa
+- **Plotly Express - visualizações interativas
+- **Pandas - manipulação e análise de dados
+- **Statsmodel - suporte à regressão linear
